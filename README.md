@@ -1,4 +1,4 @@
-## Application Classifier
+## Alphabet Classifier
 A **Streamlit-based EEG application** to make the NeuroScribe system more interactive and accessible.
 This app simplifies interaction with the model, offering user-friendly interface for EEG data visualization, preprocessing, and classification of alphabets.
 ### Demo 
